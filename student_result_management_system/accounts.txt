@@ -1,0 +1,16 @@
+Account
+
+admin
+
+user admin
+pass admin123
+
+faculty
+
+user faculty
+pass faculty
+
+student
+
+user student
+pass student
